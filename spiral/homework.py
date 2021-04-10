@@ -13,4 +13,4 @@ def spiralize(number):
     return total_value
 
 if __name__ == "__main__":
-    spiralize(501)
+    print(spiralize(501))
