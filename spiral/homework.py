@@ -3,7 +3,7 @@ def spiralize(number):
     step = 2
     total_value = 0
     matrix_row = 0
-    while (n <= (number**2)):
+    while (n <= (number ** 2)):
         total_value += n
         n += step
         matrix_row += 1
